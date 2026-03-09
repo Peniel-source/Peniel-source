@@ -100,4 +100,4 @@ My repos tell the story of how I got here — from zero to building real backend
 
 ## 📫 Reach Me
 
-- Email: [penielobeng3@gmail.com](mailto:penielobeng3@gmail.com)
+- Email: [penielobeng3@gmail.com](mailto:p.obeng@alustudent.com)
