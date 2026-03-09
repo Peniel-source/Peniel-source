@@ -101,4 +101,3 @@ My repos tell the story of how I got here — from zero to building real backend
 ## 📫 Reach Me
 
 - Email: [penielobeng3@gmail.com](mailto:penielobeng3@gmail.com)
-- LinkedIn: [linkedin.com/in/peniel-obeng](https://www.linkedin.com/in/peniel-obeng)
