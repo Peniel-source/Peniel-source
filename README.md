@@ -34,7 +34,7 @@ These are collaborative team projects I worked on as a backend contributor.
 
 A web-based property management platform built for independent Rwandan landlords to digitise rent tracking, lease management, maintenance tickets, and tenant communication.
 
-**My role: Backend (DSA) Engineer**
+**My role: Backend Engineer**
 - Implemented hash maps for caching and a min-heap for maintenance ticket priority queuing
 - Built Flask REST API routes: `/api/v1/property`, `/api/v1/tenant`, `/api/v1/tickets/queues`
 - Designed the relational schema and connected the Python backend to CockroachDB
