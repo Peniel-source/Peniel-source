@@ -2,7 +2,7 @@
 
 Entry-level backend engineer based in Kigali, Rwanda 🇷🇼 | Originally from Ghana 🇬🇭
 
-I build backend systems with Python — APIs, databases, and data pipelines. My learning path has taken me from Linux fundamentals and shell scripting all the way through to Flask APIs, distributed databases, web infrastructure, and DevOps. Currently deepening my skills in server-side infrastructure and system architecture at African Leadership University.
+I build backend systems with Python — APIs, databases, and data pipelines. My learning path has taken me from Linux fundamentals and shell scripting all the way through to Flask APIs, distributed databases, and web infrastructure. Specializing in low-level programming from 01/09/2026 at African Leadership University.
 
 ---
 
@@ -12,16 +12,14 @@ I build backend systems with Python — APIs, databases, and data pipelines. My 
 Python · JavaScript · SQL · Bash / Shell
 
 **Backend & APIs**
-Flask · REST API design · SQLAlchemy · pytest
+Flask · REST API design · SQLAlchemy · pytest . TypeScript/Nest.js
 
 **Databases**
-MySQL · PostgreSQL · CockroachDB · Schema design · ERD modelling · ETL pipelines
+MySQL · PostgreSQL · CockroachDB · Schema design · ERD modelling · ETL pipelines . Prisma
 
-**Infrastructure & DevOps**
-Linux (Ubuntu) · Nginx · HAProxy · Shell scripting · Web stack configuration · System engineering
+**Infrastructure**
+Linux (Ubuntu) · Nginx · HAProxy · Shell scripting · System design
 
-**Tools**
-Git & GitHub · Trello · Google Suite
 
 ---
 
@@ -69,6 +67,20 @@ A relational database system for processing Mobile Money transaction data extrac
 
 ---
 
+### 💸 E-Vuze: AI-Powered Healthcare One-Stop Center for Rwanda and Beyond
+> TypeScript/Nest.js · PostgresSQL/Prisma · API design and Testing · ERD Design
+
+I interned with [ubwengelab.rw]([url](https://ubwengelab.rw/)), and I worked on E-Vuze with a big team. A general range of my contributions listed below
+
+**My contributions:**
+- Schema design for hospital workflow DB, Hospital Schema Integration & Migration (Phase 2)
+- GET/location/(id) endpoints for pharmacies
+- Check-in & Triage engine
+- Leave request workflow and surgical operations scheduler
+- Find my logbook here: [LogBook]([url](https://docs.google.com/spreadsheets/d/1CYsexV7ui4BE0KJq9rHCRLVltX1LClCTEqI3FbCUOmE/edit?usp=sharing))
+
+---
+
 ## 📂 My Learning Journey
 
 My repos tell the story of how I got here — from zero to building real backend systems.
@@ -90,11 +102,9 @@ My repos tell the story of how I got here — from zero to building real backend
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently deepening my skills in backend development: Authentication/Authorization, Rate Limiting, Caching with Redis, DB Indexing. I'd appreciate opportunities to learn.
 
-- Django & deployment pipelines
-- Automation scripting
-- Deeper Linux and DevOps practices
+
 
 ---
 
