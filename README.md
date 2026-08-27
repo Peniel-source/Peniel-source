@@ -70,14 +70,14 @@ A relational database system for processing Mobile Money transaction data extrac
 ### 💸 E-Vuze: AI-Powered Healthcare One-Stop Center for Rwanda and Beyond
 > TypeScript/Nest.js · PostgresSQL/Prisma · API design and Testing · ERD Design
 
-I interned with [ubwengelab.rw]([(https://ubwengelab.rw/)), and I worked on E-Vuze with a big team. A general range of my contributions listed below
+I interned with [ubwengelab.rw](https://ubwengelab.rw/), and I worked on E-Vuze with a big team. A general range of my contributions listed below
 
 **My contributions:**
 - Schema design for hospital workflow DB, Hospital Schema Integration & Migration (Phase 2)
 - GET/location/(id) endpoints for pharmacies
 - Check-in & Triage engine
 - Leave request workflow and surgical operations scheduler
-- Find my logbook here: [LogBook]((https://docs.google.com/spreadsheets/d/1CYsexV7ui4BE0KJq9rHCRLVltX1LClCTEqI3FbCUOmE/edit?usp=sharing))
+- Find my logbook here: [LogBook](https://docs.google.com/spreadsheets/d/1CYsexV7ui4BE0KJq9rHCRLVltX1LClCTEqI3FbCUOmE/edit?usp=sharing)
 
 ---
 
