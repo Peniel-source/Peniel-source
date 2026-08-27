@@ -102,7 +102,7 @@ My repos tell the story of how I got here — from zero to building real backend
 
 ---
 
-## 🌱 Currently deepening my skills in backend development: Authentication/Authorization, Rate Limiting, Caching with Redis, DB Indexing. I'd appreciate opportunities to learn.
+## 🌱 Still deepening my skills in backend development, and I'd appreciate opportunities to learn.
 
 
 
